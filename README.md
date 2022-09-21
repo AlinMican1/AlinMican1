@@ -1,9 +1,9 @@
 ### Hi there Im Alin👋
 
-- School(): Enrolled in BSC Computer Science at Royal Holloway University of London.
-- Current(): I’m currently learning web-development and game development, using frameWorks such as React and using Unity for game 
+- School( ): Enrolled in BSC Computer Science at Royal Holloway University of London.
+- Current( ): I’m currently learning web-development and game development, using frameWorks such as React and using Unity for game 
 development.
-- Targets(): To produce games using realistic physics and being able to work learn full stack development.
+- Targets( ): To produce games using realistic physics and being able to work learn full stack development.
 - 📫 How to reach me alinmican2001@gmail.com
 <!---
 AlinMican1/AlinMican1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
