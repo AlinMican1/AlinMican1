@@ -1,4 +1,4 @@
-### Hi there Im Alin👋
+### Hi there Im Alin( )
 
 - School( ): Enrolled in BSC Computer Science at Royal Holloway University of London.
 - Current( ): I’m currently learning web-development and game development, using frameWorks such as React and using Unity for game 
